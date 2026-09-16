@@ -1,1 +1,1 @@
-# dabble-laboratory1
+In this lab, we used Bluetooth and the Dabble app to successfully connect an ESP32 micro-controller to a smartphone. This exercise shows how serial data can be sent and received via wireless communication for simple IoT applications.
